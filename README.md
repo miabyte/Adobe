@@ -10,6 +10,8 @@ Made with 💖 and ☕ by MiaByte.
 
 ## 1-MiaSave
 
-![](https://i.imgur.com/kbCaaXK.gif)
+
+https://github.com/miabyte/Adobe/assets/38174558/cef66928-ccca-4cd1-897d-33bc987270c8
+
 
 Introducing MiaSave: Your ultimate PSD duplication tool. With just one click, effortlessly create PNG and JPG copies in the same folder, mirroring the PSD filename. MiaSave combines the power of a JavaScript file and a Photoshop action to simplify your workflow and save you valuable time.
